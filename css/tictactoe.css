@@ -1,0 +1,26 @@
+html, body {
+	font-size: 15px;
+	text-align: center;
+}
+
+p:nth-of-type(3) {
+	color: red;
+	font-size: 20px;
+}
+
+button {
+	margin: 40px;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+}
+
+td {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	font-size: 40px;
+	text-align: center;
+}
